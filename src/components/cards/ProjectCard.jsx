@@ -1,0 +1,24 @@
+import ProjectButton from "../buttons/ProjectButton";
+import { StyledH2 } from "../header/Heading.styles";
+import { StyledProjectCard } from "./StyledCard.styles";
+
+
+function HomeCard() {
+
+    return (  
+        <>
+          <StyledProjectCard>
+              <div>
+                <StyledH2>
+                    SEMESTER PROJECT 2:
+                </StyledH2>
+              </div> 
+              <div>
+              <ProjectButton />
+              </div> 
+          </StyledProjectCard>
+        </>
+    );
+}
+
+export default HomeCard;
