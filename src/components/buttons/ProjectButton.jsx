@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { StyledProjectButton } from "./buttons.styles";
+import { StyledProjectButton } from "./Buttons.styles";
 
 function ProjectButton() {
 
