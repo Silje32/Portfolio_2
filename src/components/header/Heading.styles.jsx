@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const StyledHeading = styled.h1`
-  color: #306FB6;
+  color: black;
   background-color: white;
   font-family: haboro-serif, serif;
   font-style: normal;
