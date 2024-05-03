@@ -15,7 +15,7 @@ export const StyledExamCard = styled.div`
    flex: 1;
    flex-direction: column;
    align-items: center;
-   background-color: #306FB6;
+   background-color: #B78E6E;
    border-radius: 5px;
    border-color: 2px black;
    padding: 60px;
@@ -27,7 +27,7 @@ export const StyledFrameworksCard = styled.div`
    flex: 1;
    flex-direction: column;
    align-items: center;
-   background-color: #306FB6;
+   background-color: #B78E6E;
    border-radius: 5px;
    border-color: 2px black;
    padding: 60px;
@@ -40,7 +40,7 @@ export const StyledProjectCard = styled.div`
    flex: 1;
    flex-direction: column;
    align-items: center;
-   background-color: #306FB6;
+   background-color: #B78E6E;
    border-radius: 5px;
    border-color: 2px black;
    padding: 60px;
