@@ -39,7 +39,7 @@ export const StyledExamButton = styled.button`
    min-width: 200px;
    cursor: pointer;
    color: ${(props) => (props.$isActive ? "blue" : "white")};
-   background-color: ${(props) => (props.$isActive ? "black" : "#707070")};
+   background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
 
    a {
       text-decoration: none;
@@ -64,7 +64,7 @@ export const StyledProjectButton = styled.button`
    min-width: 200px;
    cursor: pointer;
    color: ${(props) => (props.$isActive ? "blue" : "white")};
-   background-color: ${(props) => (props.$isActive ? "black" : "#707070")};
+   background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
 
    a {
       text-decoration: none;
@@ -90,7 +90,7 @@ export const StyledFrameworksButton = styled.button`
    cursor: pointer;
    border-color: black;
    color: ${(props) => (props.$isActive ? "blue" : "white")};
-   background-color: ${(props) => (props.$isActive ? "black" : "#707070")};
+   background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
 
    a {
       text-decoration: none;
