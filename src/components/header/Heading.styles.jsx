@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StyledHeading = styled.h1`
   color: black;
-  background-color: white;
+  background-color: #E8E0D1;
   font-family: haboro-serif, serif;
   font-style: normal;
   font-weight: 700;
@@ -14,7 +14,7 @@ export const StyledHeading = styled.h1`
 `
 
 export const StyledH2 = styled.h2`
-  color: white;
+  color: black;
   padding: 5px;
   font-family: haboro-serif, serif;
   font-style: normal;
