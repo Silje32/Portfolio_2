@@ -59,7 +59,7 @@ export const StyledProjectButton = styled.button`
    font-weight: normal;
    font-style: normal;
 }
-   padding: 25px 20px;
+   padding: 20px 15px;
    font-size: 22px;
    min-width: 200px;
    cursor: pointer;
@@ -84,7 +84,7 @@ export const StyledFrameworksButton = styled.button`
    font-weight: normal;
    font-style: normal;
 }
-   padding: 25px 20px;
+   padding: 20px 15px;
    font-size: 22px;
    min-width: 200px;
    cursor: pointer;
