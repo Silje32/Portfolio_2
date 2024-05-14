@@ -12,6 +12,9 @@ function ExamCard() {
                 <StyledH2>
                     PROJECT EXAM 2:
                 </StyledH2>
+              </div>
+              <div>
+                <p>LINK TO GITHUB REPOSITORY: https://github.com/Silje32/Final_Project_Exam_2.git</p>
               </div> 
               <div>
               <ExamButton />
