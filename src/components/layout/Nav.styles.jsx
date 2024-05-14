@@ -8,7 +8,7 @@ ul {
    padding: 25px 10px;
    min-width: 1470px;
    cursor: pointer;
-   background-color: ${(props) => (props.$nav ? "white" : "#B78E6E")};
+   background-color: ${(props) => (props.$nav ? "white" : "black")};
 
 }
 
@@ -27,7 +27,7 @@ a {
 }
    
 :hover {
-      color: black;
+      color: #707070;
 }
 
 `;
