@@ -37,6 +37,7 @@ export const StyledExamButton = styled.button`
    padding: 20px 15px;
    font-size: 22px;
    min-width: 200px;
+   margin-top: 10px;
    cursor: pointer;
    color: ${(props) => (props.$isActive ? "blue" : "white")};
    background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
