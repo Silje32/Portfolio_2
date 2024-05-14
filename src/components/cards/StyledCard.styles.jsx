@@ -5,7 +5,7 @@ export const StyledCard = styled.div`
    flex: 1;
    flex-direction: row;
    align-items: center;
-   background-color: white;
+   background-color: #E8E0D1;
    border-radius: 5px;
    padding: 60px;
 `
@@ -15,7 +15,7 @@ export const StyledExamCard = styled.div`
    flex: 1;
    flex-direction: column;
    align-items: center;
-   background-color: #B78E6E;
+   background-color: #F6F6F1;
    border-radius: 5px;
    border-color: 2px black;
    padding: 60px;
@@ -27,7 +27,7 @@ export const StyledFrameworksCard = styled.div`
    flex: 1;
    flex-direction: column;
    align-items: center;
-   background-color: #B78E6E;
+   background-color: #F6F6F1;
    border-radius: 5px;
    border-color: 2px black;
    padding: 60px;
@@ -40,7 +40,7 @@ export const StyledProjectCard = styled.div`
    flex: 1;
    flex-direction: column;
    align-items: center;
-   background-color: #B78E6E;
+   background-color: #F6F6F1;
    border-radius: 5px;
    border-color: 2px black;
    padding: 60px;
