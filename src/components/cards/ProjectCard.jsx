@@ -12,7 +12,10 @@ function HomeCard() {
                 <StyledH2>
                     SEMESTER PROJECT 2:
                 </StyledH2>
-              </div> 
+              </div>
+              <div>
+                <Link to={"git@github.com:Silje32/Semester_Project_2.git"}>GITHUB REPOSITORY</Link>
+              </div>
               <div>
               <ProjectButton />
               </div> 

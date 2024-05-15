@@ -14,8 +14,7 @@ function ExamCard() {
                 </StyledH2>
               </div>
               <div>
-                <p>LINK TO GITHUB REPOSITORY:</p>
-                <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>LINK TO GITHUB REPOSITORY</Link>
+                <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>GITHUB REPOSITORY</Link>
               </div> 
               <div>
               <ExamButton />

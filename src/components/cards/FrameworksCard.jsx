@@ -12,6 +12,9 @@ function FrameworksCard() {
                 <StyledH2>
                     JAVASCRIPT FRAMEWORKS CA:
                 </StyledH2>
+              </div>
+              <div>
+                <Link to={"git@github.com:Silje32/Javascript-ca.git"}>GITHUB REPOSITORY</Link>
               </div> 
               <div> 
               <FrameworksButton />
