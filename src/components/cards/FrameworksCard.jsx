@@ -22,10 +22,12 @@ function FrameworksCard() {
                   <li>Cart page</li>
                   <li>Checkout success page</li>
                 </ul>
-                <p>The Homepage should have a list of all the products. There should be a look-ahead 
+                <div>
+                  <p>The Homepage should have a list of all the products. There should be a look-ahead 
                    search bar that filters products when typing in a product name. Clicking on a 
                    product should take a user to an individual product page.
-                </p>
+                  </p>
+                </div>
               </div>
               <div>
                 <Link to={"https://github.com/Silje32/Javascript-ca.git"}>GITHUB REPOSITORY</Link>
