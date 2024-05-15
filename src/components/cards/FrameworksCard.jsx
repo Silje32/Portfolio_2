@@ -15,6 +15,19 @@ function FrameworksCard() {
                 </StyledH2>
               </div>
               <div>
+                <ul>
+                  You are tasked with build out the following pages for an eCom store:
+                  <li>Homepage</li>
+                  <li>Individual product page</li>
+                  <li>Cart page</li>
+                  <li>Checkout success page</li>
+                </ul>
+                <p>The Homepage should have a list of all the products. There should be a look-ahead 
+                   search bar that filters products when typing in a product name. Clicking on a 
+                   product should take a user to an individual product page.
+                </p>
+              </div>
+              <div>
                 <Link to={"https://github.com/Silje32/Javascript-ca.git"}>GITHUB REPOSITORY</Link>
               </div> 
               <div> 
