@@ -52,6 +52,7 @@ export const StyledExamButton = styled.button`
    }
 
 `
+
 export const StyledProjectButton = styled.button`
 @font-face {
    font-family: 'noveldisplay-mediumxcmp';
@@ -63,6 +64,7 @@ export const StyledProjectButton = styled.button`
    padding: 20px 15px;
    font-size: 22px;
    min-width: 200px;
+   margin-top: 10px;
    cursor: pointer;
    color: ${(props) => (props.$isActive ? "blue" : "white")};
    background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
@@ -88,6 +90,7 @@ export const StyledFrameworksButton = styled.button`
    padding: 20px 15px;
    font-size: 22px;
    min-width: 200px;
+   margin-top: 10px;
    cursor: pointer;
    border-color: black;
    color: ${(props) => (props.$isActive ? "blue" : "white")};
