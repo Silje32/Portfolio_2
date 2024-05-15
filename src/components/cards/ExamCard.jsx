@@ -1,4 +1,5 @@
 import ExamButton from "../buttons/ExamButton";
+import { Link } from "react-router-dom";
 import { StyledH2 } from "../header/Heading.styles";
 import { StyledExamCard } from "./StyledCard.styles";
 
