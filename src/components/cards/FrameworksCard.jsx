@@ -15,7 +15,7 @@ function FrameworksCard() {
                 </StyledH2>
               </div>
               <div>
-                <Link to={"git@github.com:Silje32/Javascript-ca.git"}>GITHUB REPOSITORY</Link>
+                <Link to={"https://github.com/Silje32/Javascript-ca.git"}>GITHUB REPOSITORY</Link>
               </div> 
               <div> 
               <FrameworksButton />
