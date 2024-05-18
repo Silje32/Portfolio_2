@@ -20,10 +20,6 @@ export const StyledExamCard = styled.div`
    border-color: 2px black;
    padding: 60px;
    max-width: 600px;
-
-   a:link {
-      color: #B76E79;
-   }
 `
 
 export const StyledFrameworksCard = styled.div`
@@ -53,7 +49,10 @@ export const StyledProjectCard = styled.div`
 `
 
 export const StyledLink = styled.link`
-   color: #B76E79;
+   a:link {
+      color: #B76E79;
+}
+
 `
 ;
 
