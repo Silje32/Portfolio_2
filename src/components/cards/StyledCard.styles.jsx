@@ -49,8 +49,11 @@ export const StyledProjectCard = styled.div`
 `
 
 export const StyledLink = styled.h3`
-    color: #B76E79;
-    font-size: 20px;
+   font-size: 18px;
+
+   &:link {
+      color: #B76E79;
+   }
 
 `
 ;
