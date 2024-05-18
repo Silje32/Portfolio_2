@@ -48,12 +48,9 @@ export const StyledProjectCard = styled.div`
    max-width: 600px;
 `
 
-export const StyledLink = styled.div`
-ul {
-   list-style-type: none;
-}     
-   
-li a:link {
+export const StyledLink = styled.h3`
+
+h3 {
     color: #B76E79;
 }
 
