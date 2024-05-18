@@ -24,7 +24,7 @@ function ExamCard() {
               </div>
                   <StyledLink>
                         <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>
-                            GITHUB REPOSITORY
+                            VIEW GITHUB REPOSITORY
                         </Link>
                   </StyledLink>
                   <div>
