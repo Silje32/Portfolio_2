@@ -53,7 +53,7 @@ ul {
    list-style-type: none;
 }     
    
-ul li a:link {
+a:link {
     color: #B76E79;
 }
 
