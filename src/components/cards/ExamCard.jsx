@@ -1,7 +1,7 @@
 import ExamButton from "../buttons/ExamButton";
 import { Link } from "react-router-dom";
 import { StyledH2 } from "../header/Heading.styles";
-import { StyledExamCard } from "./StyledCard.styles";
+import { StyledExamCard, StyledLink } from "./StyledCard.styles";
 
 
 function ExamCard() {
@@ -22,9 +22,9 @@ function ExamCard() {
                    documentation, plan, design and build a modern front end social media application.
                 </p>
               </div>
-              <div>
+              <StyledLink>
                 <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>GITHUB REPOSITORY</Link>
-              </div> 
+              </StyledLink> 
               <div>
               <ExamButton />
               </div> 
