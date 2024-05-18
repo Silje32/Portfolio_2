@@ -8,7 +8,9 @@ function Nav() {
          <NavStyling> 
         <ul>
           <li>
-            <NavLink to="/">HOME</NavLink>
+            <NavLink to="/">
+              HOME
+            </NavLink>
           </li>
         </ul> 
         </NavStyling>
