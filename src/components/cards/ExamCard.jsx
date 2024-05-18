@@ -1,7 +1,7 @@
 import ExamButton from "../buttons/ExamButton";
 import { Link } from "react-router-dom";
 import { StyledH2 } from "../header/Heading.styles";
-import { StyledExamCard, StyledLink } from "./StyledCard.styles";
+import { StyledExamCard } from "./StyledCard.styles";
 
 
 function ExamCard() {
@@ -23,11 +23,11 @@ function ExamCard() {
                 </p>
               </div>
               <div>
-                  <StyledLink>
+                  <div>
                       <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>
-                         GITHUB REPOSITORY
+                          GITHUB REPOSITORY
                       </Link>
-                  </StyledLink>
+                  </div>
               </div>
               <div>
               <ExamButton />
