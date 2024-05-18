@@ -50,8 +50,9 @@ export const StyledProjectCard = styled.div`
 
 export const StyledLink = styled.h3`
 
-h3 {
+h3 a:link {
     color: #B76E79;
+    font-size: 20px;
 }
 
 `
