@@ -1,6 +1,7 @@
 import ExamButton from "../buttons/ExamButton";
+import ExamLink from "../links/ExamLink";
 import { StyledH2 } from "../header/Heading.styles";
-import { StyledExamCard, StyledLink } from "./StyledCard.styles";
+import { StyledExamCard } from "./StyledCard.styles";
 
 
 function ExamCard() {
@@ -21,7 +22,7 @@ function ExamCard() {
                    documentation, plan, design and build a modern front end social media application.
                 </p>
               </div>
-              <StyledLink />
+                 <ExamLink />
               <div>
               <ExamButton />
               </div> 
