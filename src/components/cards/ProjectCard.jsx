@@ -24,7 +24,9 @@ function HomeCard() {
                 </p>
               </div>
               <div>
-                <Link to={"https://github.com/Silje32/Semester_Project_2.git"}>GITHUB REPOSITORY</Link>
+                <Link to={"https://github.com/Silje32/Semester_Project_2.git"}>
+                   GITHUB REPOSITORY
+                </Link>
               </div>
               <div>
               <ProjectButton />

@@ -31,7 +31,9 @@ function FrameworksCard() {
                 </div>
               </div>
               <div>
-                <Link to={"https://github.com/Silje32/Javascript-ca.git"}>GITHUB REPOSITORY</Link>
+                <Link to={"https://github.com/Silje32/Javascript-ca.git"}>
+                  GITHUB REPOSITORY
+                </Link>
               </div> 
               <div> 
               <FrameworksButton />
