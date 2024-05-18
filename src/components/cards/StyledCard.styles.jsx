@@ -48,7 +48,7 @@ export const StyledProjectCard = styled.div`
    max-width: 600px;
 `
 
-export const StyledLink = styled.link`
+export const StyledLink = styled.ul`
 ul {
    list-style-type: none;
 }     
