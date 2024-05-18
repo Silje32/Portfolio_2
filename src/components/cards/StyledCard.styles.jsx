@@ -54,7 +54,7 @@ ul {
 }     
    
 ul li a:link {
-         color: #B76E79;
+    color: #B76E79;
 }
 
 `
