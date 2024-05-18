@@ -47,12 +47,5 @@ export const StyledProjectCard = styled.div`
    margin-left: 20px;
    max-width: 600px;
 `
-
-export const StyledLink = styled.link`
-   a:link {
-      color: #B76E79;
-}
-
-`
 ;
 
