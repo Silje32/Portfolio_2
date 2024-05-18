@@ -11,9 +11,13 @@ function ExamLink() {
     return ( 
          <>
            <StyledLink $isActive={false} onClick={() => onClick()}>
-              <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>
-                GITHUB REPOSITORY
-              </Link>
+              <ul>
+                <li> 
+                  <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>
+                      GITHUB REPOSITORY
+                  </Link>
+                </li> 
+              </ul>
            </StyledLink>
          </>
     );

@@ -22,7 +22,9 @@ function ExamCard() {
                    documentation, plan, design and build a modern front end social media application.
                 </p>
               </div>
-                 <ExamLink />
+              <div>
+                   <ExamLink />
+              </div>
               <div>
               <ExamButton />
               </div> 
