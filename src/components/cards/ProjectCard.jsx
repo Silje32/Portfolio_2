@@ -1,7 +1,7 @@
 import ProjectButton from "../buttons/ProjectButton";
 import { Link } from "react-router-dom";
 import { StyledH2 } from "../header/Heading.styles";
-import { StyledProjectCard } from "./StyledCard.styles";
+import { StyledProjectCard, StyledLink } from "./StyledCard.styles";
 
 
 function HomeCard() {
@@ -23,11 +23,11 @@ function HomeCard() {
                    listings, but only registered users can make bids on listings.
                 </p>
               </div>
-              <div>
-                <Link to={"https://github.com/Silje32/Semester_Project_2.git"}>
-                   GITHUB REPOSITORY
-                </Link>
-              </div>
+              <StyledLink>
+                  <Link to={"https://github.com/Silje32/Semester_Project_2.git"}>
+                     GITHUB REPOSITORY
+                  </Link>
+              </StyledLink>
               <div>
               <ProjectButton />
               </div> 

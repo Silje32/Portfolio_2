@@ -1,7 +1,7 @@
 import FrameworksButton from "../buttons/FrameworksButton";
 import { Link } from "react-router-dom";
 import { StyledH2 } from "../header/Heading.styles";
-import { StyledFrameworksCard } from "./StyledCard.styles";
+import { StyledFrameworksCard, StyledLink } from "./StyledCard.styles";
 
 
 function FrameworksCard() {
@@ -30,11 +30,11 @@ function FrameworksCard() {
                   </p>
                 </div>
               </div>
-              <div>
+              <StyledLink>     
                 <Link to={"https://github.com/Silje32/Javascript-ca.git"}>
-                  GITHUB REPOSITORY
+                   GITHUB REPOSITORY
                 </Link>
-              </div> 
+              </StyledLink> 
               <div> 
               <FrameworksButton />
               </div>  
