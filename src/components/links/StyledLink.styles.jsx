@@ -5,9 +5,9 @@ export const StyledLink = styled.link`
      list-style-type: none; 
    }
 
-a:link {
+   a:link {
     color: #B76E79;
-}
+   }
 
 `
 ;
