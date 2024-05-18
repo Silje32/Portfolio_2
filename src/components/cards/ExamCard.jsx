@@ -22,16 +22,18 @@ function ExamCard() {
                    documentation, plan, design and build a modern front end social media application.
                 </p>
               </div>
-              <div>
                   <div>
-                      <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>
-                          GITHUB REPOSITORY
-                      </Link>
+                    <ul>
+                      <li> 
+                        <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>
+                            GITHUB REPOSITORY
+                        </Link>
+                      </li>
+                    </ul>
                   </div>
-              </div>
-              <div>
-              <ExamButton />
-              </div> 
+                  <div>
+                     <ExamButton />
+                  </div> 
           </StyledExamCard>
         </>
     );
