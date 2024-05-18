@@ -49,6 +49,10 @@ export const StyledProjectCard = styled.div`
 `
 
 export const StyledLink = styled.link`
+ul {
+   list-style-type: none;
+}     
+   
 ul li a:link {
          color: #B76E79;
 }
