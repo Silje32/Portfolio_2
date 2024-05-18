@@ -11,7 +11,9 @@ function ProjectButton() {
     return ( 
          <>
            <StyledProjectButton $isActive={false} onClick={() => onButtonClick()}>
-               <Link to={"/project-2"}>Go To Website</Link>
+               <Link to={"/project-2"}>
+                  Go To Website
+               </Link>
             </StyledProjectButton>
          </>
     );

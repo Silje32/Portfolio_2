@@ -11,7 +11,9 @@ function FrameworksButton() {
     return ( 
          <>
            <StyledFrameworksButton $isActive={false} onClick={() => onButtonClick()}>
-               <Link to={"/frameworks"}>Go To Website</Link>
+               <Link to={"/frameworks"}>
+                   Go To Website
+               </Link>
             </StyledFrameworksButton>
          </>
     );

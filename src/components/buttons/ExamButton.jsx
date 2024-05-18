@@ -11,7 +11,9 @@ function ExamButton() {
     return ( 
          <>
            <StyledExamButton $isActive={false} onClick={() => onButtonClick()}>
-               <Link to={"https://dropsofjoy.netlify.app/"}>Go To Website</Link>
+               <Link to={"https://dropsofjoy.netlify.app/"}>
+                   Go To Website
+               </Link>
             </StyledExamButton>
          </>
     );
