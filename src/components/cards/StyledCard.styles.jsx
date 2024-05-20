@@ -57,7 +57,7 @@ export const StyledLink = styled.h3`
    } 
 
    a:hover {
-           color: #5EA7EF; 
+           color: #4BA69D; 
    }
 
 `
