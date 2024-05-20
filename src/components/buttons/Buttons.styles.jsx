@@ -48,7 +48,7 @@ export const StyledExamButton = styled.button`
    }
 
    a:hover {
-      background-color: "#C09DDF";
+      background-color: #C09DDF;
    }
 
 `
@@ -75,7 +75,7 @@ export const StyledProjectButton = styled.button`
    }
 
    a:hover {
-      background-color: "#C09DDF";
+      background-color: #C09DDF;
    }
 `  
 
@@ -102,6 +102,6 @@ export const StyledFrameworksButton = styled.button`
    }
 
    a:hover {
-      background-color: "#C09DDF";
+      background-color: #C09DDF;
    }
 `;
