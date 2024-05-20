@@ -22,6 +22,8 @@ export const StyledBaseButton = styled.button`
 
    a:hover {
       background-color: #4BA69D;
+      opacity: 0.9;
+      transform: scale(0.98);
    }
 
 `
