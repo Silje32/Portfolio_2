@@ -10,6 +10,7 @@ const theme = {
     body: "#E8E0D1",
     footer: "black",
   },
+  mobile: "768px",
 }
 
   
