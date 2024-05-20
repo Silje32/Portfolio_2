@@ -96,12 +96,14 @@ export const StyledFrameworksButton = styled.button`
    color: ${(props) => (props.$isActive ? "blue" : "white")};
    background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
 
+   &:hover {
+      background-color: #C09DDF;
+   }
+
    a {
       text-decoration: none;
       color: ${(props) => (props.$isActive ? "blue" : "white")};
    }
 
-   a:hover {
-      background-color: #C09DDF;
-   }
+   
 `;
