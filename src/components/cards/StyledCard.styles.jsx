@@ -20,6 +20,11 @@ export const StyledExamCard = styled.div`
    border-color: 2px black;
    padding: 60px;
    max-width: 600px;
+
+   @media (max-width: ${({ theme }) => theme.mobile}) {
+      flex-direction: column;
+      text-align: center;
+  }
 `
 
 export const StyledFrameworksCard = styled.div`
@@ -33,6 +38,11 @@ export const StyledFrameworksCard = styled.div`
    padding: 60px;
    margin-left: 20px;
    max-width: 600px;
+
+   @media (max-width: ${({ theme }) => theme.mobile}) {
+      flex-direction: column;
+      text-align: center;
+  }
 `
 
 export const StyledProjectCard = styled.div`
@@ -46,6 +56,11 @@ export const StyledProjectCard = styled.div`
    padding: 60px;
    margin-left: 20px;
    max-width: 600px;
+
+   @media (max-width: ${({ theme }) => theme.mobile}) {
+      flex-direction: column;
+      text-align: center;
+  }
 `
 
 export const StyledLink = styled.h3`
@@ -60,6 +75,5 @@ export const StyledLink = styled.h3`
            color: #4BA69D; 
    }
 
-`
-;
+`;
 
