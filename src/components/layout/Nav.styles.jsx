@@ -26,7 +26,7 @@ a {
       color: ${(props) => (props.$nav ? "grey" : "white")}; 
 }
    
-&:hover {
+a:hover {
       color: #4BA69D;
 }
 
