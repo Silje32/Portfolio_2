@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StyledFooter = styled.footer`
   color: white;
-  background-color: black;
+  background-color: ${({ theme }) => theme.colors.footer};
   font-family: haboro-serif, serif;
   font-style: normal;
   font-weight: 500;

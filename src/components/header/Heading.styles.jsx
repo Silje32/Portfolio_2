@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const StyledHeading = styled.h1`
   color: black;
-  background-color: #E8E0D1;
+  background-color: ${({ theme }) => theme.colors.header};
   font-family: haboro-serif, serif;
   font-style: normal;
   font-weight: 700;
