@@ -21,7 +21,7 @@ export const StyledBaseButton = styled.button`
    }
 
    a:hover {
-      background-color: "#C09DDF";
+      background-color: #4BA69D;
    }
 
 `
@@ -43,7 +43,7 @@ export const StyledExamButton = styled.button`
    background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
 
    &:hover {
-      background-color: #5EA7EF;
+      background-color: #4BA69D;
    }
 
    a {
@@ -70,7 +70,7 @@ export const StyledProjectButton = styled.button`
    background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
 
    &:hover {
-      background-color: #5EA7EF;
+      background-color: #4BA69D;
    }
 
    a {
@@ -98,7 +98,7 @@ export const StyledFrameworksButton = styled.button`
    background-color: ${(props) => (props.$isActive ? "black" : "#B76E79")};
 
    &:hover {
-      background-color: #5EA7EF;
+      background-color: #4BA69D;
    }
 
    a {
