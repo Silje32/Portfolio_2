@@ -8,7 +8,7 @@ const theme = {
   colors: {
     header: "#E8E0D1",
     body: "#E8E0D1",
-    footer: "pink",
+    footer: "black",
   },
 }
 
