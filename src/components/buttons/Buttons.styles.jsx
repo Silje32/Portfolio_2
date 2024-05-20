@@ -46,6 +46,8 @@ export const StyledExamButton = styled.button`
 
    &:hover {
       background-color: #4BA69D;
+      opacity: 0.9;
+      transform: scale(0.98);
    }
 
    a {
