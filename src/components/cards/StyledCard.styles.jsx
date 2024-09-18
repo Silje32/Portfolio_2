@@ -8,6 +8,18 @@ export const StyledCard = styled.div`
    background-color: #E8E0D1;
    border-radius: 5px;
    padding: 60px;
+
+   @media (max-width: ${({ theme }) => theme.mobile}) {
+      flex-direction: column;
+      text-align: center;
+      margin-bottom: 10px;
+   }
+
+   @media (max-width: ${({ theme }) => theme.tablet}) {
+      flex-direction: column;
+      text-align: center;
+      margin-bottom: 10px;
+   }      
 `
 
 export const StyledExamCard = styled.div`
