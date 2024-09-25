@@ -11,7 +11,7 @@ function ProjectButton() {
     return ( 
          <>
            <StyledProjectButton $isActive={false} onClick={() => onButtonClick()}>
-               <Link to={"/project-2"}>
+               <Link to={"https://new-semester-project2.netlify.app"}>
                   Go To Website
                </Link>
             </StyledProjectButton>
