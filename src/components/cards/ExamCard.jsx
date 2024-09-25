@@ -1,5 +1,6 @@
-import ExamButton from "../buttons/ExamButton";
 import { Link } from "react-router-dom";
+import ExamButton from "../buttons/ExamButton";
+import Screenshot from "../../images/website_project-exam2.png";
 import { StyledH2 } from "../header/Heading.styles";
 import { StyledExamCard, StyledLink } from "./StyledCard.styles";
 
@@ -14,6 +15,9 @@ function ExamCard() {
                     PROJECT EXAM 2:
                 </StyledH2>
               </div>
+                <div>
+                   <img src={Screenshot} alt="Screenshot" />
+                </div>
               <div>
                 <p>
                    An existing Social Media company has approached you to create a brand new front 
