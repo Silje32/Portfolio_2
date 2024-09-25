@@ -23,7 +23,7 @@ function ExamCard() {
                 </p>
               </div>
                   <StyledLink>
-                        <Link to={"https://github.com/Silje32/Final_Project_Exam_2.git"}>
+                        <Link to={"https://github.com/Silje32/Final_Exam_2.git"}>
                             VIEW GITHUB REPOSITORY
                         </Link>
                   </StyledLink>
