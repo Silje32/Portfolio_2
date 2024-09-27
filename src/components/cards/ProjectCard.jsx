@@ -24,7 +24,7 @@ function HomeCard() {
                 </p>
               </div>
               <StyledLink>
-                  <Link to={"https://github.com/Silje32/Semester_Project_2.git"}>
+                  <Link to={"https://github.com/Silje32/new-javascript-semester-project.git"}>
                      VIEW GITHUB REPOSITORY
                   </Link>
               </StyledLink>
