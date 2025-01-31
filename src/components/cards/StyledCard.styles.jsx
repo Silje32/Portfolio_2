@@ -76,7 +76,7 @@ export const StyledProjectCard = styled.div`
    max-width: 600px;
 
    img {
-     width: 50%;
+     width: 60%;
      margin-bottom: 10px;
    }
 
