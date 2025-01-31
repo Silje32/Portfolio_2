@@ -1,7 +1,10 @@
-import ProjectButton from "../buttons/ProjectButton";
 import { Link } from "react-router-dom";
+import ProjectButton from "../buttons/ProjectButton";
+import Screenshot from "../../images/website_semester-project2.png";
 import { StyledH2 } from "../header/Heading.styles";
 import { StyledProjectCard, StyledLink } from "./StyledCard.styles";
+
+
 
 
 function HomeCard() {
@@ -14,6 +17,9 @@ function HomeCard() {
                     SEMESTER PROJECT 2:
                 </StyledH2>
               </div>
+                <div>
+                   <img src={Screenshot} alt="Screenshot" />
+                </div>
               <div>
                 <p>
                    An auction site is looking to launch a website where users can add items to be 
