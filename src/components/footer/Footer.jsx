@@ -1,11 +1,10 @@
 import { StyledFooter } from "./Footer.styles";
-import { StyledH4 } from "./Heading.styles";
 
 function Footer() {
   return (
     <>
       <StyledFooter>
-        <StyledH4>BACK TO TOP</StyledH4>
+        <h4>BACK TO TOP</h4>
       </StyledFooter>
     </>
   );
