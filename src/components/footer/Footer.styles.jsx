@@ -15,4 +15,5 @@ export const StyledFooter = styled.footer`
   flex-shrink: 0;
   padding: 20px;
   height: 100px;
+  width: 100%;
 `;
