@@ -8,4 +8,10 @@ export const StyledFooter = styled.footer`
   flex-shrink: 0;
   padding: 20px;
   height: 100px;
+  color: white;
+  font-family: haboro-serif, serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  text-align: right;
 `;
