@@ -57,7 +57,7 @@ export const StyledFrameworksCard = styled.div`
   max-width: 600px;
 
   img {
-    width: 100%;
+    width: 50%;
     margin-bottom: 10px;
   }
 
