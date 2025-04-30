@@ -24,12 +24,3 @@ export const StyledH2 = styled.h2`
   flex-shrink: 0;
   text-align: center;
 `;
-
-export const StyledH4 = styled.h4`
-  color: white;
-  font-family: haboro-serif, serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 21px;
-  text-align: right;
-`;
