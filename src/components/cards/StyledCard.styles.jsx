@@ -80,8 +80,7 @@ export const StyledProjectCard = styled.div`
   max-width: 600px;
 
   img {
-    width: 50%;
-    height: 20%;
+    width: 100%;
     margin-bottom: 10px;
   }
 
