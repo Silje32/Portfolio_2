@@ -12,6 +12,7 @@ const GlobalStyles = createGlobalStyle`
         font-size: 15px;
         color: black;
         flex-grow: 1;
+        width: 100‰;
     }
 `;
 
