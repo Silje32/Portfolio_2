@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const StyledHeading = styled.h1`
   color: black;
@@ -11,10 +11,10 @@ export const StyledHeading = styled.h1`
   flex-shrink: 0;
   text-align: center;
   padding: 20px;
-`
+`;
 
 export const StyledH2 = styled.h2`
-  color: black;
+  color: #4ba69d;
   padding: 5px;
   font-family: haboro-serif, serif;
   font-style: normal;
@@ -23,6 +23,4 @@ export const StyledH2 = styled.h2`
   flex-grow: 0;
   flex-shrink: 0;
   text-align: center;
-`
-;
-
+`;
