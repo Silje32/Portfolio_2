@@ -8,7 +8,7 @@ export const StyledFooter = styled.footer`
   font-weight: 500;
   font-size: 21px;
   text-align: right;
-  margin-right: 20px;
+  margin-right: 25px;
   display: flex;
   flex-direction: row-reverse;
   flex-grow: 0;
