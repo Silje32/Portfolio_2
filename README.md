@@ -4,7 +4,7 @@
 
 01.Project Exam 2
 02.Semester Project 2
-03.Javascript Frameworks CA
+03.JavaScript CA
 
 ### Built With :
 
